@@ -50,8 +50,7 @@
               "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T15:08:18.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T15:08:18.596Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Mantenimiento\\Producto.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T15:08:13.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T15:08:13.558Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Mantenimiento\\Marca.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T15:08:12.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T15:08:12.583Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Mantenimiento\\Categoria.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T15:08:11.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T15:08:11.411Z"
             },
             {
               "$type": "Document",
@@ -102,8 +98,7 @@
               "RelativeToolTip": "CapaPresentacionAdmin\\Controllers\\MantenimientoController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T15:07:42.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T15:07:42.496Z"
             },
             {
               "$type": "Document",
@@ -113,7 +108,7 @@
               "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\PAIS GAMER\\Documents\\proyectos\\tienda_MVC\\CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADQAAABHAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-21T14:42:47.658Z",
               "EditorCaption": ""
