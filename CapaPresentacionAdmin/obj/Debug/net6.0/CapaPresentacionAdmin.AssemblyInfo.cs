@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CapaPresentacionAdmin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51aa834d16b479952e6c5d1280f201f1c6828e23")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d56ef3a59b1470b0224509d52f1d40d9121a6389")]
 [assembly: System.Reflection.AssemblyProductAttribute("CapaPresentacionAdmin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CapaPresentacionAdmin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
