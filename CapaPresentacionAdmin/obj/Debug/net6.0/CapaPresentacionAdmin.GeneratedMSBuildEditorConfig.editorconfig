@@ -22,12 +22,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PAIS GAMER/Documents/proyectos/tienda_MVC/CapaPresentacionAdmin/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/PAIS GAMER/Documents/proyectos/tienda_MVC/CapaPresentacionAdmin/Views/Home/Usuarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVc3Vhcmlvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PAIS GAMER/Documents/proyectos/tienda_MVC/CapaPresentacionAdmin/Views/Home/Test.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXN0LmNzaHRtbA==
+[C:/Users/PAIS GAMER/Documents/proyectos/tienda_MVC/CapaPresentacionAdmin/Views/Mantenimiento/Categoria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b1xDYXRlZ29yaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PAIS GAMER/Documents/proyectos/tienda_MVC/CapaPresentacionAdmin/Views/Mantenimiento/Marca.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b1xNYXJjYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PAIS GAMER/Documents/proyectos/tienda_MVC/CapaPresentacionAdmin/Views/Mantenimiento/Producto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b1xQcm9kdWN0by5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/PAIS GAMER/Documents/proyectos/tienda_MVC/CapaPresentacionAdmin/Views/Shared/Error.cshtml]
