@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{B026BA04-E473-4140-A28F-18F307B89057}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B026BA04-E473-4140-A28F-18F307B89057}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|c:\\users\\pais gamer\\documents\\proyectos\\tienda_mvc\\capapresentacionadmin\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B026BA04-E473-4140-A28F-18F307B89057}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B026BA04-E473-4140-A28F-18F307B89057}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|c:\\users\\pais gamer\\documents\\proyectos\\tienda_mvc\\capapresentacionadmin\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B026BA04-E473-4140-A28F-18F307B89057}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B026BA04-E473-4140-A28F-18F307B89057}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|c:\\users\\pais gamer\\documents\\proyectos\\tienda_mvc\\capapresentacionadmin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B026BA04-E473-4140-A28F-18F307B89057}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B026BA04-E473-4140-A28F-18F307B89057}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|c:\\users\\pais gamer\\documents\\proyectos\\tienda_mvc\\capapresentacionadmin\\views\\home\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B026BA04-E473-4140-A28F-18F307B89057}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\views\\home\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B026BA04-E473-4140-A28F-18F307B89057}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|c:\\users\\pais gamer\\documents\\proyectos\\tienda_mvc\\capapresentacionadmin\\views\\mantenimiento\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B026BA04-E473-4140-A28F-18F307B89057}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\views\\mantenimiento\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B026BA04-E473-4140-A28F-18F307B89057}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|c:\\users\\pais gamer\\documents\\proyectos\\tienda_mvc\\capapresentacionadmin\\views\\mantenimiento\\marca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B026BA04-E473-4140-A28F-18F307B89057}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\views\\mantenimiento\\marca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B026BA04-E473-4140-A28F-18F307B89057}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|c:\\users\\pais gamer\\documents\\proyectos\\tienda_mvc\\capapresentacionadmin\\views\\mantenimiento\\categoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B026BA04-E473-4140-A28F-18F307B89057}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\views\\mantenimiento\\categoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +34,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuarios.cshtml",
+              "DocumentMoniker": "C:\\Users\\PAIS GAMER\\Documents\\proyectos\\tienda_MVC\\CapaPresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "ToolTip": "C:\\Users\\PAIS GAMER\\Documents\\proyectos\\tienda_MVC\\CapaPresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T15:08:18.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cshtml",
+              "DocumentMoniker": "C:\\Users\\PAIS GAMER\\Documents\\proyectos\\tienda_MVC\\CapaPresentacionAdmin\\Views\\Mantenimiento\\Producto.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Views\\Mantenimiento\\Producto.cshtml",
+              "ToolTip": "C:\\Users\\PAIS GAMER\\Documents\\proyectos\\tienda_MVC\\CapaPresentacionAdmin\\Views\\Mantenimiento\\Producto.cshtml",
+              "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Mantenimiento\\Producto.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T15:08:13.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Marca.cshtml",
+              "DocumentMoniker": "C:\\Users\\PAIS GAMER\\Documents\\proyectos\\tienda_MVC\\CapaPresentacionAdmin\\Views\\Mantenimiento\\Marca.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Views\\Mantenimiento\\Marca.cshtml",
+              "ToolTip": "C:\\Users\\PAIS GAMER\\Documents\\proyectos\\tienda_MVC\\CapaPresentacionAdmin\\Views\\Mantenimiento\\Marca.cshtml",
+              "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Mantenimiento\\Marca.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T15:08:12.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria.cshtml",
+              "DocumentMoniker": "C:\\Users\\PAIS GAMER\\Documents\\proyectos\\tienda_MVC\\CapaPresentacionAdmin\\Views\\Mantenimiento\\Categoria.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Views\\Mantenimiento\\Categoria.cshtml",
+              "ToolTip": "C:\\Users\\PAIS GAMER\\Documents\\proyectos\\tienda_MVC\\CapaPresentacionAdmin\\Views\\Mantenimiento\\Categoria.cshtml",
+              "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Mantenimiento\\Categoria.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T15:08:11.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MantenimientoController.cs",
+              "DocumentMoniker": "C:\\Users\\PAIS GAMER\\Documents\\proyectos\\tienda_MVC\\CapaPresentacionAdmin\\Controllers\\MantenimientoController.cs",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Controllers\\MantenimientoController.cs",
+              "ToolTip": "C:\\Users\\PAIS GAMER\\Documents\\proyectos\\tienda_MVC\\CapaPresentacionAdmin\\Controllers\\MantenimientoController.cs",
+              "RelativeToolTip": "CapaPresentacionAdmin\\Controllers\\MantenimientoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:07:42.496Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,35 +113,9 @@
               "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\PAIS GAMER\\Documents\\proyectos\\tienda_MVC\\CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAADwAAABQAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADQAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-21T14:42:47.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\PAIS GAMER\\Documents\\proyectos\\tienda_MVC\\CapaPresentacionAdmin\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\PAIS GAMER\\Documents\\proyectos\\tienda_MVC\\CapaPresentacionAdmin\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T14:42:45.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\PAIS GAMER\\Documents\\proyectos\\tienda_MVC\\CapaPresentacionAdmin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\PAIS GAMER\\Documents\\proyectos\\tienda_MVC\\CapaPresentacionAdmin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T14:42:39.888Z",
               "EditorCaption": ""
             }
           ]
